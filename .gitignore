@@ -1,0 +1,5 @@
+.env
+pem-files
+_pycache_
+venv-sharepoint-msal
+requirements.txt
